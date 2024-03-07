@@ -13,7 +13,7 @@ installTheme(){
     echo "Installing theme..."
     cd /var/www/pterodactyl
     rm -r Utama
-    git clone https://github.com/ArrDev10/Utama.git
+    git clone https://github.com/APdev93/Utama.git
     cd Utama
     rm /var/www/pterodactyl/resources/scripts/Utama.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
@@ -32,7 +32,6 @@ installTheme(){
     yarn build:production
     sudo php artisan optimize:clear
 
-
 }
 
 installThemeQuestion(){
@@ -47,7 +46,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/ArrDev10/Utama/main/install.sh)
+    bash <(curl https://raw.githubusercontent.com/APdev93/Utama/main/install.sh)
 }
 
 restoreBackUp(){
