@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code");
+
 html {
 	background-image: url("https://telegra.ph/file/4ae2bd4c0239ceb2942b3.jpg");
 	background-attachment: fixed;
@@ -5,15 +7,14 @@ html {
 	background-position: center center;
 	background-size: cover;
 	background-color: transparent;
+	font-family: "Fira Code"!important;
 }
 
 div .LoginFormContainer___StyledDiv-sc-cyh04c-3 .cxOtYP {
 	background-color: #1f2d43 !important;
-	
 }
 div .LoginFormContainer___StyledDiv-sc-cyh04c-3 {
 	background-color: #1f2d43 !important;
-	
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
