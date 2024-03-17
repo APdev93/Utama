@@ -12,7 +12,7 @@ html {
 
 div .LoginFormContainer___StyledDiv-sc-cyh04c-3 .cxOtYP {
 	background-color: #2e2e33 !important;
-	width: 300px;
+	
 }
 div .Label-sc-g780ms-0 .dqkKHi {
 	color: white !important;
@@ -20,16 +20,16 @@ div .Label-sc-g780ms-0 .dqkKHi {
 div .Label-sc-g780ms-0 {
 	color: white !important;
 }
-div .LoginFormContainer___StyledImg-sc-cyh04c-5 .iKtZRB {
+.LoginFormContainer___StyledImg-sc-cyh04c-5 .iKtZRB {
 	width: 60px !important;
 	height: 60px !important;
 }
 .Button__ButtonStyle-sc-1qu1gou-0 .dLAOsI {
-     border-radius: 50px!important;
+	border-radius: 50px !important;
 }
 div .LoginFormContainer___StyledDiv-sc-cyh04c-3 {
 	background-color: #2e2e33 !important;
-	width: 300px;
+	
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
