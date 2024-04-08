@@ -194,12 +194,8 @@ div.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP.StartupContainer___StyledTitledGr
 }
 
 div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
-	background-image: url("https://telegra.ph/file/4ae2bd4c0239ceb2942b3.jpg");
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	background-color: transparent;
+	background-color: #22202d !important;
+	font-family: "Fira Code" !important;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
