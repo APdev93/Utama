@@ -3,6 +3,7 @@
 html {
 	background-color: #22202d !important;
 	font-family: "Fira Code" !important;
+	font-weight: normal!important;
 }
 
 div .LoginFormContainer___StyledDiv-sc-cyh04c-3 .cxOtYP {
@@ -110,7 +111,7 @@ div.SubNavigation-sc-lfuaoi-0.jZPsWO {
 
 div.content-wrapper {
 	background-color: #22202d !important;
-	font-family: "Fira Code" !important;
+	font-family: "Fira Code" !important;font-weight: normal!important;
 }
 
 div.ContentBox___StyledDiv-sc-mjlt6f-2.iGOcRf {
@@ -195,7 +196,7 @@ div.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP.StartupContainer___StyledTitledGr
 
 div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 	background-color: #22202d !important;
-	font-family: "Fira Code" !important;
+	font-family: "Fira Code" !important;font-weight: normal!important;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
